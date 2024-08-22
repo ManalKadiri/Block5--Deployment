@@ -1,0 +1,12 @@
+boto3
+pandas
+gunicorn
+streamlit
+scikit-learn
+openpyxl
+mlflow
+python-multipart
+fsspec
+s3fs
+plotly
+seaborn
